@@ -1,0 +1,7 @@
+{
+  "name": "BloodLink AI",
+  "description": "Smart Blood Inventory. Faster Donor Connections. Better Preparedness. AI-Powered Blood Bank & Donor Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
